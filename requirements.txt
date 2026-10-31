@@ -2,8 +2,14 @@ langchain
 langchain_community
 langchain-openai
 langchain-groq
+langchain-text-splitters
 python-dotenv
 langchain-google-genai
 langgraph
 langsmith
 langchain_tavily
+tqdm
+pymupdf
+faiss-cpu
+chromadb
+sentence-transformers
